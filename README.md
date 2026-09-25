@@ -1,4 +1,8 @@
 # 🎯 Number Guessing Game
+## 📸 Screenshot
+
+![Number Guessing Game](screenshot.png)
+
 
 A modern Python GUI-based Number Guessing Game built using Tkinter.
 
